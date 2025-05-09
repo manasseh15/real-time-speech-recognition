@@ -1,4 +1,4 @@
-this Python script uses the speech_recognition library to record audio from a microphone in real time and generate corresponding subtitles in SRT format.
+This Python script uses the speech_recognition library to record audio from a microphone in real time and generate corresponding subtitles in SRT format.
 
 📌 Features
 Real-time microphone input
