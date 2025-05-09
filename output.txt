@@ -1,0 +1,6 @@
+PS C:\Users\manas> & "C:/Program Files/Python312/python.exe" c:/Users/manas/OneDrive/Documents/py.2/main.py
+Calibrating microphone for ambient noise... Please wait.
+Recording and transcribing. Press Ctrl+C to stop.
+
+[1] Listening for 5 seconds...
+Transcribed: hello hello hello hello
